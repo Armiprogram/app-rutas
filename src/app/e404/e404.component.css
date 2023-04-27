@@ -1,0 +1,12 @@
+img{
+width: 1000px;
+align-self: center;
+}
+h1{
+    color: blue;
+    text-align: center;
+}
+.subtitulo{
+    color: red;
+    text-align: center;
+}
